@@ -23,4 +23,6 @@ https://github.com/elcorto/imagecluster - кластеризация изобр�
 
 
  ## Итоговый результат:
- Силуэты, некоторые напоминают покемонов. 
+ Силуэты, некоторые напоминают покемонов. <br>
+![alt text](https://raw.githubusercontent.com/ipceeh/pokemon_image_generation/master/images/1.png?raw="True")
+![alt text](https://raw.githubusercontent.com/ipceeh/pokemon_image_generation/master/images/2.png?raw="True")
