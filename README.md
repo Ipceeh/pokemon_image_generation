@@ -2,10 +2,13 @@
 Генерация покемонов с помощью DCGAN и датасета с kaggle
 
 Для генерации нового изображения покемона выбрал GAN (DCGAN).
-Линки на все статьи оставлять не буду, только на те, откуда взят код.
-https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb - генерация рукописных чисел (1)
-https://github.com/gsurma/image_generator - генерация изображения симпсона (2)
-https://github.com/elcorto/imagecluster - кластеризация изображений (3)
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D1%81%D0%BE%D1%81%D1%82%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C#%D0%9C%D0%B5%D1%82%D0%BE%D0%B4 - кратко о GAN
+<br>
+https://medium.com/@jonathan_hui/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f - кратко о DCGAN
+<br>
+https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb - генерация рукописных чисел (1)<br>
+https://github.com/gsurma/image_generator - генерация изображения симпсона (2)<br>
+https://github.com/elcorto/imagecluster - кластеризация изображений (3)<br>
 
 
 Отличие от датасетов (1) и (2) довольно существенные, а потому и результат хуже. 
